@@ -1,1 +1,2 @@
 This is my first doc file , am adding to my repository named testGit.
+now adding the second line to make changes- and will update it on git hub by again commit and push.
